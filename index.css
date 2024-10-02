@@ -72,7 +72,7 @@ html {
 
 .cover-container {
     position: relative;
-    background-image: url('./pizzaImmagini/pizza_sfondo.png');
+    background-image: url('./img/aicoverpizza.jpg');
     background-size: cover;
     background-position: center;
     height: 400px;
